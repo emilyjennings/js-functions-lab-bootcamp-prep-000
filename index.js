@@ -8,5 +8,6 @@ function happyHolidays(string) {
 
 
 function happyHolidaysTo(Emily) {
+  name = "Emily"
   return `Happy holidays, ${name}!`
 }
