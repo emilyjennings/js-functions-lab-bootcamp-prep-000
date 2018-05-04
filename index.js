@@ -12,5 +12,5 @@ function happyHolidaysTo(name, Emily) {
 }
 
 function happyHolidayTo(days, holiday) {
-  
+  return
 }
