@@ -1,6 +1,7 @@
 // write your code below!
 
 function happyHolidays(string) {
+  string = "Hapy holidays!"
   return string
 }
 
